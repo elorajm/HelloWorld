@@ -2,14 +2,13 @@
 
 This is a basic Hello World program. This was created to show demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.  
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
+You can watch a deom of my software here.
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 * Visual Sudio Code
-* Phython 3.13.7
+* Phython 3.13.2
 *Git / Github
 
 # Useful Websites
